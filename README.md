@@ -20,4 +20,4 @@
 </code>
 * * *
 
-<img width="" heigth="" src="./png/고양이.jpeg"></img>
+<img width="" height="" src="./png/고양이.jpeg"></img>
