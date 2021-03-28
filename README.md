@@ -21,7 +21,7 @@
 
 * * *
 
-<img width="" height="" src="./png/고양이.jpeg"></img>
+<img width="" height="" src="./png/고양이.jpg"></img>
 
 ## 4주차과제
 <img width="" height="" src="./png/4주차과제.jpg"></img>
