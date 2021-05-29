@@ -28,3 +28,5 @@
 
 ## 12주차과제
 <img width="" height="" src="./png/12주차과제.JPG"></img>
+
+<img width="" height="" src="./png/12주차과제1.JPG"></img>
